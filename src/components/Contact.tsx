@@ -21,12 +21,12 @@ const Contact = () => {
     {
       name: 'GitHub',
       url: 'https://github.com/JedAngelo',
-      description: 'View my code and projects'
+      description: 'github.com/JedAngelo'
     },
     {
       name: 'LinkedIn',
       url: 'https://www.linkedin.com/in/jed-angelo-tan/',
-      description: 'Jed Angelo Tan'
+      description: 'www.linkedin.com/in/jed-angelo-tan'
     },
     {
       name: 'Email',
