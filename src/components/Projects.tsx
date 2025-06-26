@@ -8,7 +8,7 @@ import { ExternalLink } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: 'Biometric Payroll Management System',
+      title: 'Biometric Attendance & Payroll Management System',
       description: 'A comprehensive C# Windows Forms desktop application designed for robust payroll and attendance management, featuring biometric integration, detailed employee records, and automated payroll calculations, powered by a dedicated backend API.',
       technologies: ['C#', 'WinForms', '.NET', 'Biometric Integration'],
       githubUrl: 'https://github.com/jedangelo/ariar_payrollsystem',
@@ -16,7 +16,7 @@ const Projects = () => {
       category: 'Desktop Application'
     },
     {
-      title: 'Payroll Management API',
+      title: 'Payroll Management Rest API',
       description: 'ASP.NET Core 8.0 RESTful API serving as the powerful backend for a comprehensive payroll system, managing employees, attendance, and payroll calculations with robust user authentication.',
       technologies: ['C#', 'ASP.NET', 'Rest API', 'SQL Server', 'JWT Authentication', 'ASP.NET Core Identity'],
       githubUrl: 'https://github.com/JedAngelo/ARIAR_Payroll_API',
