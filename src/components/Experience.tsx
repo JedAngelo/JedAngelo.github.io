@@ -12,7 +12,7 @@ const Experience = () => {
       achievements: [
         'Co-developed and designed a conference booking system with a Microsoft SQL Server database.',
         'Utilized ASP.NET for the Rest API backend and implemented ASP.NET Core Identity with JWT for user authorization and authentication',
-        'Employed Angular framework for the frontend',
+        'Implemented Angular framework for the frontend with PrimeNG as the main UI component library',
       ]
     },
     {
